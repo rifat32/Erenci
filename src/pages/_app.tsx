@@ -1,4 +1,4 @@
-import 'styles/globalsa.css'
+import '../styles/globalsa.css'
 import 'lib/fontawesome'
 import { SWRConfig } from 'swr'
 import { ThemeProvider } from 'next-themes'
