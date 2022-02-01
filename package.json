@@ -1,11 +1,11 @@
 {
-  "name": "ven-earth",
+  "name": "Erenci",
   "description": "My personal website.",
-  "homepage": "https://ven.earth",
-  "repository": "github:ven/ven-earth",
+  "homepage": "https://kherici.github.io/Erenci/",
+  "repository": "https://github.com/Kherici/Erenci",
   "version": "1.0.0",
   "private": true,
-  "author": "ven <v@ven.earth>",
+  "author": "Erenci <kherici>",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
